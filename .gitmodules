@@ -1,0 +1,9 @@
+[submodule "pro4tech-mobile"]
+	path = pro4tech-mobile
+	url = https://github.com/CodeDontBlow/pro4tech-mobile
+[submodule "pro4tech-frontend"]
+	path = pro4tech-frontend
+	url = https://github.com/CodeDontBlow/pro4tech-frontend
+[submodule "pro4tech-backend"]
+	path = pro4tech-backend
+	url = https://github.com/CodeDontBlow/pro4tech-backend
